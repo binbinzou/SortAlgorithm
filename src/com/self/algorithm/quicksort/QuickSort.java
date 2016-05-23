@@ -8,7 +8,7 @@ public class QuickSort {
 		
 		int start = 0;
 		 
-		int end = array.length;
+		int end = array.length; 
 		
 		int size = array.length;
 		for(int i = 0; i < size;i++){
