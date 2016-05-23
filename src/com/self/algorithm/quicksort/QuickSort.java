@@ -7,7 +7,7 @@ public class QuickSort {
 		int[] array = new int[100];
 		
 		int start = 0;
-		
+		 
 		int end = array.length;
 		
 		int size = array.length;
